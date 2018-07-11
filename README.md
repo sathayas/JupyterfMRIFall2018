@@ -2,7 +2,5 @@
 
 Working repository for Jupyter notebooks for fMRI Class, Fall 2018.
 
-- Installation instructions
-
 ### Table of Contents
-- Intro
+* [Intro](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Intro.ipynb) (9/10)
