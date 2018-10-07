@@ -7,8 +7,8 @@ Working repository for Jupyter notebooks for fMRI Class, Fall 2018.
 ### Table of Contents
 
 * [Intro](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Intro.ipynb) (9/10)
-* [Basic Python](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/BasicPython.ipynb) (9/10-17)
-* [NumPy arrays, image data](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/NumPy.ipynb) (9/10-17)
-* [Git & GitHub](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Git.ipynb) (9/24)
-* [NIfTI & BIDS](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/NIfTI_BIDS.ipynb) (9/24)
-* [Nipype & normalization](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Normalization.ipynb) (10/1)
+* [Basic Python](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/BasicPython.ipynb) (9/10-24)
+* [NumPy arrays, image data](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/NumPy.ipynb) (9/24-10/1)
+* [Git & GitHub](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Git.ipynb) (10/1)
+* [NIfTI & BIDS](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/NIfTI_BIDS.ipynb) (10/1 - 10/8)
+* [Nipype & normalization](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Normalization.ipynb) (10/8 - 10/15))
