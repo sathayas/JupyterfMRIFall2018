@@ -12,3 +12,4 @@ Working repository for Jupyter notebooks for fMRI Class, Fall 2018.
 * [Git & GitHub](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Git.ipynb) (10/1)
 * [NIfTI & BIDS](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/NIfTI_BIDS.ipynb) (10/1 - 10/8)
 * [Nipype & normalization](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/Normalization.ipynb) (10/8 - 10/15)
+* [fMRI pre-processing](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/fMRI_Preproc.ipynb) (11/5)
