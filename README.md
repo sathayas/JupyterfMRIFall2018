@@ -3,6 +3,7 @@
 Working repository for Jupyter notebooks for fMRI Class, Fall 2018.
 
 * [Setting up an iMac](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/iMacSetUp.ipynb)
+* [Installing Graphviz](https://github.com/sathayas/JupyterfMRIFall2018/blob/master/GraphvizInstall.ipynb)
 
 ### Table of Contents
 
